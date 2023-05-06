@@ -1,2 +1,2 @@
 # ip-checker
-A program that reads the IPs one by one from a file containing the list of destination IPs, takes a ping and saves the result in a log file named today's date and hostname of that machine.
+A script that reads the IPs listed in a file, pings them and saves the results in a log file named hostname of that machine and a time stamp.
